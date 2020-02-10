@@ -1,0 +1,9 @@
+Building Bodcoin
+
+See doc/readme-qt.rst for instructions on building Bodcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bodcoin.
+
+See doc/build-*.txt for instructions on building bodcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bodcoin.
